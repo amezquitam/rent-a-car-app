@@ -1,0 +1,7 @@
+[submodule "rent-car-client"]
+	path = rent-car-client
+	url = https://github.com/amezquitam/rent-car-client
+
+[submodule "rent-car-server"]
+	path = rent-car-server
+	url = https://github.com/amezquitam/rent-car-server
